@@ -90,7 +90,7 @@ s526521@nwmissouri.edu
 
 ## Getting Help
 
-[Syntax](https://www.markdownguide.org/basic-syntax/ "Syntax for Markdown)
+- [Syntax](https://www.markdownguide.org/basic-syntax/ "Syntax for Markdown)
 
 This sight will help you with the following:
 1. Headings
