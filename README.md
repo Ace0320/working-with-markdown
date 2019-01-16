@@ -3,8 +3,8 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 ## Links
 
-- [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
-- [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
+- [Webpage](https://ace0320.github.io/working-with-markdown/ "Working With Markdown Webpage")
+- [Source](https://github.com/ace0320/working-with-markdown "Working With Markdown Source")
 
 ## Getting Started
 
@@ -88,4 +88,20 @@ Kenny Grannas
 
 s526521@nwmissouri.edu
 
+## Getting Help
 
+[Syntax](https://www.markdownguide.org/basic-syntax/ "Syntax for Markdown)
+
+This sight will help you with the following:
+1. Headings
+1. Alternate Syntax
+1. Paragraphs
+1. Line Breaks
+1. Emphasis's
+1. Blockquotes
+1. Lists
+1. Code Blocks
+1. Images
+1. URLS
+
+![Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png "Markdown Logo")
