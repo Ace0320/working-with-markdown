@@ -84,8 +84,8 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Kenny Grannas
 
-dcase@nwmissouri.edu
+s526521@nwmissouri.edu
 
 
